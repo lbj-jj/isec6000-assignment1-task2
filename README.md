@@ -4,10 +4,8 @@
 2. Fork the Saleor platform repository
    a. Open terminal on Virtual Machine
    b. Install Git on Ubuntu by running the commands:
-```Bash
-sudo apt-get update
-sudo apt-get install git
-```
+`<sudo apt-get update>
+`<sudo apt-get install git>`
    c. Fork the Saleor platform repository by running the command:
 ```Bash
 git clone + "the HTTPS link copying in step 1"
