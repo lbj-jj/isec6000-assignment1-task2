@@ -7,7 +7,9 @@
 sudo apt-get update
 sudo apt-get install git
    c. Fork the Saleor platform repository by running the command:
+···Bash
 git clone + "the HTTPS link copying in step 1"
+```
 
 # Run a Saleor stack
 Follow the step-by-step guidelines outlined in the Saleor platform repository to run a Saleor stack enriched with sample data effectively
@@ -24,5 +26,6 @@ Follow the step-by-step guidelines outlined in the Saleor platform repository to
 <img width="771" alt="Screenshot 2023-09-09 at 1 42 41 PM" src="https://github.com/lbj-jj/isec6000-assignment1-task2/assets/61398620/2a21da24-0b4e-4ed6-b471-ba663cc88869">
 2. Drag the modified file docker-compose.yaml to the designed area and click the "commit changes" button
 <img width="962" alt="Screenshot 2023-09-09 at 1 46 44 PM" src="https://github.com/lbj-jj/isec6000-assignment1-task2/assets/61398620/261bd1da-45bb-4bdc-a3ad-4cd8f19a93a1">
-3. The change will be updated immediately.
+3. The change will be updated immediately
+
 <img width="470" alt="Screenshot 2023-09-09 at 1 48 35 PM" src="https://github.com/lbj-jj/isec6000-assignment1-task2/assets/61398620/54fe8551-9d39-48da-abe4-8acd368915ec">
