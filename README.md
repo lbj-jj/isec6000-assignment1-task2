@@ -7,7 +7,7 @@
 sudo apt-get update
 sudo apt-get install git
    c. Fork the Saleor platform repository by running the command:
-···Bash
+```Bash
 git clone + "the HTTPS link copying in step 1"
 ```
 
