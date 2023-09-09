@@ -6,7 +6,9 @@
    b. Install Git on Ubuntu by running the commands:
 
 sudo apt-get update
+
 sudo apt-get install git
+
    c. Fork the Saleor platform repository by running the command:
 
 git clone + "the HTTPS link copying in step 1"
